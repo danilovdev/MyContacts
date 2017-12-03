@@ -16,7 +16,7 @@
 		3C408B241FC30599004889A1 /* MyContactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C408B231FC30599004889A1 /* MyContactsTests.swift */; };
 		3C408B2F1FC30599004889A1 /* MyContactsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C408B2E1FC30599004889A1 /* MyContactsUITests.swift */; };
 		3C74FCF11FC7306300A2FAE8 /* ExpandableNames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C74FCF01FC7306300A2FAE8 /* ExpandableNames.swift */; };
-		3CCFEA2B1FC944BD000BE9AC /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCFEA2A1FC944BD000BE9AC /* Contact.swift */; };
+		3CCFEA2B1FC944BD000BE9AC /* FavoritableContact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCFEA2A1FC944BD000BE9AC /* FavoritableContact.swift */; };
 		3CCFEA2D1FC94E22000BE9AC /* ContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCFEA2C1FC94E22000BE9AC /* ContactCell.swift */; };
 /* End PBXBuildFile section */
 
@@ -53,7 +53,7 @@
 		3C408B2E1FC30599004889A1 /* MyContactsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyContactsUITests.swift; sourceTree = "<group>"; };
 		3C408B301FC30599004889A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C74FCF01FC7306300A2FAE8 /* ExpandableNames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableNames.swift; sourceTree = "<group>"; };
-		3CCFEA2A1FC944BD000BE9AC /* Contact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
+		3CCFEA2A1FC944BD000BE9AC /* FavoritableContact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritableContact.swift; sourceTree = "<group>"; };
 		3CCFEA2C1FC94E22000BE9AC /* ContactCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -113,7 +113,7 @@
 				3C408B1A1FC30599004889A1 /* Info.plist */,
 				3C408B121FC30599004889A1 /* MyContacts.xcdatamodeld */,
 				3C74FCF01FC7306300A2FAE8 /* ExpandableNames.swift */,
-				3CCFEA2A1FC944BD000BE9AC /* Contact.swift */,
+				3CCFEA2A1FC944BD000BE9AC /* FavoritableContact.swift */,
 				3CCFEA2C1FC94E22000BE9AC /* ContactCell.swift */,
 			);
 			path = MyContacts;
@@ -274,7 +274,7 @@
 				3CCFEA2D1FC94E22000BE9AC /* ContactCell.swift in Sources */,
 				3C74FCF11FC7306300A2FAE8 /* ExpandableNames.swift in Sources */,
 				3C408B0E1FC30599004889A1 /* ViewController.swift in Sources */,
-				3CCFEA2B1FC944BD000BE9AC /* Contact.swift in Sources */,
+				3CCFEA2B1FC944BD000BE9AC /* FavoritableContact.swift in Sources */,
 				3C408B0C1FC30599004889A1 /* AppDelegate.swift in Sources */,
 				3C408B141FC30599004889A1 /* MyContacts.xcdatamodeld in Sources */,
 			);

@@ -7,10 +7,11 @@
 //
 
 import Foundation
+import Contacts
 
-struct Contact {
-    
-    var name: String
+struct FavoritableContact {
     
     var isFavorite: Bool
+    
+    var contact: CNContact
 }
